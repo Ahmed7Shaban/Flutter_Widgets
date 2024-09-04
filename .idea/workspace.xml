@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d531709-8597-4379-a071-5ed1640d49e5" name="Changes" comment="third Widget">
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/back_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/close_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/drop_botton.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/elevated_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/floating_actions_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/icon_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/ink_well.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/material_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/out_lined_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/popup_menu_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/text_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button/lib/views/home.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ahmed7Shaban&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ahmed7Shaban/Learn_Flutter_Widgets.git&quot;,
+    &quot;accountId&quot;: &quot;eed41d23-121d-4dcf-8062-78d1d7423f55&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lW6R5AOAlMcF1J2PZnr1eihNSb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart (١).executor": "Run",
+    "Flutter.main.dart (٢).executor": "Run",
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/a0102/OneDrive/Desktop/learning_Task Flutter/Widgets",
+    "settings.editor.selected.configurable": "dev.polek.adbwifi.settings.AdbWifiConfigurable",
+    "settings.editor.splitter.proportion": "0.24313073",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Flutter.main.dart (٢)">
+    <configuration name="main.dart (١)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/fitted_box/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (٢)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Button/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/stepper/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart (٢)" />
+        <item itemvalue="Flutter.main.dart (١)" />
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d531709-8597-4379-a071-5ed1640d49e5" name="Changes" comment="" />
+      <created>1725283474134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725283474134</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="first Widget">
+      <option name="closed" value="true" />
+      <created>1725283532601</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725283532601</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٢" summary="2nd Widget">
+      <option name="closed" value="true" />
+      <created>1725317851146</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725317851147</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٣" summary="third Widget">
+      <option name="closed" value="true" />
+      <created>1725319261291</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725319261291</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٤" summary="third Widget">
+      <option name="closed" value="true" />
+      <created>1725319302625</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725319302625</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="third Widget">
+      <option name="closed" value="true" />
+      <created>1725319320363</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725319320363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first Widget" />
+    <MESSAGE value="2nd Widget" />
+    <MESSAGE value="third Widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="third Widget" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/Button/lib/buttons/out_lined_button.dart</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/Button/lib/buttons/back_button.dart</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
