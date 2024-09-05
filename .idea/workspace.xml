@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d531709-8597-4379-a071-5ed1640d49e5" name="Changes" comment="third Widget">
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/back_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/close_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/drop_botton.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/elevated_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/floating_actions_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/icon_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/ink_well.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/material_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/out_lined_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/popup_menu_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/buttons/text_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button/lib/views/home.dart" afterDir="false" />
+    <list default="true" id="4d531709-8597-4379-a071-5ed1640d49e5" name="Changes" comment="4 Widget">
+      <change afterPath="$PROJECT_DIR$/stack_shader_mask/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,30 +47,34 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flutter.main.dart (١).executor": "Run",
-    "Flutter.main.dart (٢).executor": "Run",
-    "Flutter.main.dart.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/a0102/OneDrive/Desktop/learning_Task Flutter/Widgets",
-    "settings.editor.selected.configurable": "dev.polek.adbwifi.settings.AdbWifiConfigurable",
-    "settings.editor.splitter.proportion": "0.24313073",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart (١).executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart (٢).executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a0102/OneDrive/Desktop/learning_Task Flutter/Widgets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dev.polek.adbwifi.settings.AdbWifiConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24313073&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Flutter.main.dart (٢)">
     <configuration name="main.dart (١)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/fitted_box/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart (٢)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/stack_shader_mask/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="main.dart (٢)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -94,8 +88,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Flutter.main.dart (٢)" />
-        <item itemvalue="Flutter.main.dart (١)" />
         <item itemvalue="Flutter.main.dart" />
+        <item itemvalue="Flutter.main.dart (١)" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +142,23 @@
       <option name="project" value="LOCAL؜" />
       <updated>1725319320363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL؜-٠٠٠٠٦" summary="4 Widget">
+      <option name="closed" value="true" />
+      <created>1725494085849</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1725494085849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Widget" />
     <MESSAGE value="2nd Widget" />
     <MESSAGE value="third Widget" />
-    <option name="LAST_COMMIT_MESSAGE" value="third Widget" />
+    <MESSAGE value="4 Widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 Widget" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
